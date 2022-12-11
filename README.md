@@ -1,2 +1,1 @@
-# ownwhere
-ДЗ 4. Свій Where
+# ДЗ 4. Свій Where
