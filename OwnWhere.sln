@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnWhereApp", "OwnWhereApp\OwnWhereApp.csproj", "{76C3ABB2-5A71-4D6D-B476-F8843E8BC63D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C3ABB2-5A71-4D6D-B476-F8843E8BC63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C3ABB2-5A71-4D6D-B476-F8843E8BC63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C3ABB2-5A71-4D6D-B476-F8843E8BC63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C3ABB2-5A71-4D6D-B476-F8843E8BC63D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1B531E9-2800-4C75-9FE4-187A96EC3313}
+	EndGlobalSection
+EndGlobal
